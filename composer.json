@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/lock": "^6.2"
+    }
+}
