@@ -36,7 +36,7 @@
 	</div>
 	
         <!--JS goes here-->
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC35EMzaJEToK-ZyOZ1SkBa1yKegKAfb8o&callback=initMap"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCvhnrxylCh53y2oopThVv5Srl7MFAhwo&callback=initMap"></script>
 		<script>
 		
 		let global_map;
